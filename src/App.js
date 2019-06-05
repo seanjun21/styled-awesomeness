@@ -1,5 +1,5 @@
 import React from 'react';
-import styled, { createGlobalStyle, css, keyframes } from 'styled-components';
+import styled, { createGlobalStyle, css } from 'styled-components';
 
 const GlobalStyle = createGlobalStyle`
   body {
